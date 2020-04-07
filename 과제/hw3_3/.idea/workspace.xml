@@ -10,8 +10,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d1a3c40-b117-4b8b-8321-7a788df7e796" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw0_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw0_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw0_1/out/artifacts/hw0_1_jar/hw0_1.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../hw0_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw0_2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw0_2/out/artifacts/hw0_2_jar/hw0_2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../hw0_2/out/artifacts/hw0_2_jar/hw0_2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw3_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw3_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3_2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,9 +33,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/hw3_3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="70" column="23" selection-start-line="70" selection-start-column="23" selection-end-line="70" selection-end-column="23" />
+            <state relative-caret-position="312">
+              <caret line="77" column="51" lean-forward="true" selection-start-line="77" selection-start-column="51" selection-end-line="77" selection-end-column="51" />
               <folding>
+                <element signature="e#0#2642#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
@@ -56,15 +62,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/artifacts/hw3_3_jar.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="948" />
     <option name="y" value="-12" />
     <option name="width" value="980" />
@@ -76,6 +74,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -124,12 +123,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -182,17 +182,26 @@
       <workItem from="1585554332876" duration="108000" />
       <workItem from="1585554473712" duration="373000" />
       <workItem from="1585556960372" duration="604000" />
+      <workItem from="1585567315211" duration="708000" />
+      <workItem from="1585571500605" duration="21000" />
+      <workItem from="1585702459936" duration="604000" />
+      <workItem from="1585705879037" duration="7000" />
+      <workItem from="1585732042652" duration="19000" />
+      <workItem from="1585732130800" duration="14000" />
+      <workItem from="1586146132794" duration="639000" />
+      <workItem from="1586147122804" duration="601000" />
+      <workItem from="1586241022515" duration="26000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3157000" />
+    <option name="totallyTimeSpent" value="5796000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="859" y="-10" width="887" height="957" extended-state="0" />
+    <frame x="-7" y="-7" width="1753" height="954" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26714802" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.073070124" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -232,9 +241,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/hw3_3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="70" column="23" selection-start-line="70" selection-start-column="23" selection-end-line="70" selection-end-column="23" />
+        <state relative-caret-position="312">
+          <caret line="77" column="51" lean-forward="true" selection-start-line="77" selection-start-column="51" selection-end-line="77" selection-end-column="51" />
           <folding>
+            <element signature="e#0#2642#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>

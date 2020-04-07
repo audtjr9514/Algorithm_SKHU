@@ -7,8 +7,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1c48502-f5a5-459f-9326-754dce930cb6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw0_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw0_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw0_1/out/artifacts/hw0_1_jar/hw0_1.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../hw0_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw0_2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw0_2/out/artifacts/hw0_2_jar/hw0_2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../hw0_2/out/artifacts/hw0_2_jar/hw0_2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw3_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3_2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw3_3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3_3/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,10 +30,9 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/hw3_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="84" column="9" lean-forward="true" selection-start-line="84" selection-start-column="9" selection-end-line="84" selection-end-column="9" />
+            <state relative-caret-position="270">
+              <caret line="50" column="1" selection-start-line="16" selection-start-column="14" selection-end-line="50" selection-end-column="1" />
               <folding>
-                <element signature="e#0#2741#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
@@ -63,10 +67,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="951" />
-    <option name="y" value="-8" />
-    <option name="width" value="977" />
-    <option name="height" value="1054" />
+    <option name="x" value="947" />
+    <option name="y" value="-13" />
+    <option name="width" value="981" />
+    <option name="height" value="1058" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -74,14 +78,30 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="hw3_1" type="b2602c69:ProjectViewProjectNode" />
               <item name="hw3_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="hw3_1_jar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hw3_1" type="b2602c69:ProjectViewProjectNode" />
@@ -98,11 +118,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hw3_2" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -156,17 +180,28 @@
       <workItem from="1585548224457" duration="1920000" />
       <workItem from="1585554224647" duration="12000" />
       <workItem from="1585565811331" duration="271000" />
+      <workItem from="1585701751026" duration="695000" />
+      <workItem from="1585704859839" duration="1017000" />
+      <workItem from="1585705910986" duration="9000" />
+      <workItem from="1585707023692" duration="35000" />
+      <workItem from="1585713044061" duration="1329000" />
+      <workItem from="1585731740252" duration="301000" />
+      <workItem from="1585994090821" duration="918000" />
+      <workItem from="1585996418234" duration="12000" />
+      <workItem from="1586018966863" duration="15000" />
+      <workItem from="1586099859912" duration="12000" />
+      <workItem from="1586164339679" duration="5000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9308000" />
+    <option name="totallyTimeSpent" value="13656000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="862" y="-7" width="884" height="954" extended-state="0" />
+    <frame x="858" y="-11" width="888" height="958" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23309179" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19591346" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -175,7 +210,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32808718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32687652" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -213,10 +248,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/hw3_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="84" column="9" lean-forward="true" selection-start-line="84" selection-start-column="9" selection-end-line="84" selection-end-column="9" />
+        <state relative-caret-position="270">
+          <caret line="50" column="1" selection-start-line="16" selection-start-column="14" selection-end-line="50" selection-end-column="1" />
           <folding>
-            <element signature="e#0#2741#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
