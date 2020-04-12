@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="hw4_4:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1215bc75-d8c4-4980-a898-34004c8088c1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../hw0_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw0_1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw0_1/out/artifacts/hw0_1_jar/hw0_1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw0_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw0_2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw0_2/out/artifacts/hw0_2_jar/hw0_2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../hw0_2/out/artifacts/hw0_2_jar/hw0_2.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw3_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3_1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/hw4_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw4_5/.idea/artifacts/hw4_5_jar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hw3_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3_2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw3_3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3_3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw4_5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw4_5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw4_6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw4_6/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,31 +27,17 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/hw4_4.java">
+        <entry file="file://$PROJECT_DIR$/src/FigureArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1250">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="18">
+              <caret line="77" column="105" lean-forward="true" selection-start-line="77" selection-start-column="105" selection-end-line="77" selection-end-column="105" />
               <folding>
-                <element signature="e#0#885#0" expanded="true" />
+                <element signature="e#0#3225#0" expanded="true" />
                 <element signature="imports" expanded="true" />
+                <element signature="e#539#540#0" expanded="true" />
                 <element signature="e#575#576#0" expanded="true" />
-                <element signature="e#437#438#0" expanded="true" />
-                <element signature="e#473#474#0" expanded="true" />
-                <element signature="e#426#427#0" expanded="true" />
-                <element signature="e#455#456#0" expanded="true" />
-                <element signature="e#598#599#0" expanded="true" />
-                <element signature="e#622#623#0" expanded="true" />
+                <element signature="e#853#854#0" expanded="true" />
                 <element signature="e#918#919#0" expanded="true" />
-                <element signature="e#653#654#0" expanded="true" />
-                <element signature="e#693#694#0" expanded="true" />
-                <element signature="e#737#738#0" expanded="true" />
-                <element signature="e#773#774#0" expanded="true" />
-                <element signature="e#805#806#0" expanded="true" />
-                <element signature="e#836#837#0" expanded="true" />
-                <element signature="e#869#870#0" expanded="true" />
-                <element signature="e#898#899#0" expanded="true" />
-                <element signature="e#1388#1389#0" expanded="true" />
-                <element signature="e#1435#1436#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -71,20 +61,14 @@
       <list>
         <option value="$PROJECT_DIR$/src/Figure.java" />
         <option value="$PROJECT_DIR$/src/hw4_4.java" />
+        <option value="$PROJECT_DIR$/src/FigureArray.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="951" />
-    <option name="width" value="977" />
-    <option name="height" value="1054" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="950" />
+    <option name="width" value="978" />
+    <option name="height" value="1055" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -92,13 +76,36 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="hw4_4" type="b2602c69:ProjectViewProjectNode" />
               <item name="hw4_4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw4_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw4_4" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw4_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw4_4" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw4_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw4_4" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="hw4_4_jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw4_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw4_4" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hw4_4" type="b2602c69:ProjectViewProjectNode" />
@@ -110,6 +117,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -117,10 +125,14 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
@@ -135,7 +147,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.FigureArray">
+    <configuration name="FigureArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FigureArray" />
+      <module name="hw4_4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="hw4_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hw4_4" />
       <module name="hw4_4" />
@@ -145,6 +164,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FigureArray" />
         <item itemvalue="Application.hw4_4" />
       </list>
     </recent_temporary>
@@ -161,26 +181,26 @@
       <updated>1586146108425</updated>
       <workItem from="1586146112493" duration="973000" />
       <workItem from="1586147123500" duration="8037000" />
+      <workItem from="1586669131951" duration="947000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9010000" />
+    <option name="totallyTimeSpent" value="9957000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="862" y="0" width="884" height="954" extended-state="0" />
+    <frame x="-7" y="-7" width="1753" height="954" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25603864" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12787272" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3292978" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3292978" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3292978" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -191,6 +211,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3292978" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -206,13 +227,7 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Figure.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Figure.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_241/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -224,34 +239,94 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/hw4_4.java">
+    <entry file="file://$PROJECT_DIR$/src/FigureArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1250">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="18">
+          <caret line="77" column="105" lean-forward="true" selection-start-line="77" selection-start-column="105" selection-end-line="77" selection-end-column="105" />
           <folding>
-            <element signature="e#0#885#0" expanded="true" />
+            <element signature="e#0#3225#0" expanded="true" />
             <element signature="imports" expanded="true" />
+            <element signature="e#539#540#0" expanded="true" />
             <element signature="e#575#576#0" expanded="true" />
-            <element signature="e#437#438#0" expanded="true" />
-            <element signature="e#473#474#0" expanded="true" />
-            <element signature="e#426#427#0" expanded="true" />
-            <element signature="e#455#456#0" expanded="true" />
-            <element signature="e#598#599#0" expanded="true" />
-            <element signature="e#622#623#0" expanded="true" />
+            <element signature="e#853#854#0" expanded="true" />
             <element signature="e#918#919#0" expanded="true" />
-            <element signature="e#653#654#0" expanded="true" />
-            <element signature="e#693#694#0" expanded="true" />
-            <element signature="e#737#738#0" expanded="true" />
-            <element signature="e#773#774#0" expanded="true" />
-            <element signature="e#805#806#0" expanded="true" />
-            <element signature="e#836#837#0" expanded="true" />
-            <element signature="e#869#870#0" expanded="true" />
-            <element signature="e#898#899#0" expanded="true" />
-            <element signature="e#1388#1389#0" expanded="true" />
-            <element signature="e#1435#1436#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>hw4_4:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

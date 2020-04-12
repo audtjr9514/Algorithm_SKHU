@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b36bac6-e3af-4806-b497-b363f51c7b7c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../hw0_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw0_1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw0_1/out/artifacts/hw0_1_jar/hw0_1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw0_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw0_2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw0_2/out/artifacts/hw0_2_jar/hw0_2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../hw0_2/out/artifacts/hw0_2_jar/hw0_2.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw3_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3_1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw4_4/.idea/artifacts/hw4_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw4_5/.idea/artifacts/hw4_5_jar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hw3_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3_2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw3_3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3_3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw4_4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw4_4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw4_5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw4_5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,18 +17,27 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/hw4_6.java">
+        <entry file="file://$PROJECT_DIR$/src/HeapSortTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="114" column="62" selection-start-line="114" selection-start-column="62" selection-end-line="114" selection-end-column="62" />
+            <state relative-caret-position="438">
+              <caret line="155" column="68" selection-start-line="155" selection-start-column="68" selection-end-line="155" selection-end-column="68" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#332#333#0" expanded="true" />
+                <element signature="e#368#369#0" expanded="true" />
+                <element signature="e#412#413#0" expanded="true" />
+                <element signature="e#448#449#0" expanded="true" />
+                <element signature="e#481#482#0" expanded="true" />
+                <element signature="e#510#511#0" expanded="true" />
+                <element signature="e#555#556#0" expanded="true" />
+                <element signature="e#600#601#0" expanded="true" />
+                <element signature="e#646#647#0" expanded="true" />
+                <element signature="e#711#712#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -51,6 +59,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/hw4_6.java" />
+        <option value="$PROJECT_DIR$/src/HeapSortTest.java" />
       </list>
     </option>
   </component>
@@ -62,10 +71,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="981" />
-    <option name="height" value="1058" />
+    <option name="x" value="251" />
+    <option name="width" value="979" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -74,6 +82,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -81,18 +90,32 @@
               <item name="hw4_6" type="b2602c69:ProjectViewProjectNode" />
               <item name="hw4_6" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="hw4_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw4_6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw4_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw4_6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="HeapSortTest.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -106,16 +129,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.HeapSortTest">
+    <configuration name="HeapSortTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HeapSortTest" />
+      <module name="HeapSortTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="hw4_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hw4_6" />
-      <module name="hw4_6" />
+      <module name="HeapSortTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HeapSortTest" />
         <item itemvalue="Application.hw4_6" />
       </list>
     </recent_temporary>
@@ -132,17 +163,21 @@
       <updated>1586170765110</updated>
       <workItem from="1586170768319" duration="2312000" />
       <workItem from="1586241007842" duration="13000" />
+      <workItem from="1586496614670" duration="2025000" />
+      <workItem from="1586501752961" duration="47000" />
+      <workItem from="1586668396038" duration="733000" />
+      <workItem from="1586670081124" duration="3614000" />
+      <workItem from="1586704724255" duration="180000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2325000" />
+    <option name="totallyTimeSpent" value="8924000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1753" height="954" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.123158514" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1331762" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -150,8 +185,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33050847" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3292978" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6138015" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -177,15 +212,96 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/hw4_6.java">
+    <entry file="file://$PROJECT_DIR$/src/HeapSortTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="114" column="62" selection-start-line="114" selection-start-column="62" selection-end-line="114" selection-end-column="62" />
+        <state relative-caret-position="438">
+          <caret line="155" column="68" selection-start-line="155" selection-start-column="68" selection-end-line="155" selection-end-column="68" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+            <element signature="e#600#601#0" expanded="true" />
+            <element signature="e#646#647#0" expanded="true" />
+            <element signature="e#711#712#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

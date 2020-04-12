@@ -6,15 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efe2a833-97aa-49ba-82f3-6de2d205f007" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/hw3_2_jar/hw3_2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/hw3_2_jar/hw3_2.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hw3_2/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hw3_2/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw3_3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3_3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw3_3/out/artifacts/hw3_3_jar/hw3_3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3_3/out/artifacts/hw3_3_jar/hw3_3.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw3_3/out/production/hw3_3/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3_3/out/production/hw3_3/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw4_5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw4_5/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="efe2a833-97aa-49ba-82f3-6de2d205f007" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/SelectionSortTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1242">
-              <caret line="81" column="45" lean-forward="true" selection-start-line="81" selection-start-column="45" selection-end-line="81" selection-end-column="45" />
+            <state relative-caret-position="750">
+              <caret line="81" column="45" selection-start-line="81" selection-start-column="45" selection-end-line="81" selection-end-column="45" />
               <folding>
                 <element signature="e#0#2801#0" expanded="true" />
                 <element signature="imports" expanded="true" />
@@ -61,9 +53,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="868" />
-    <option name="y" value="33" />
-    <option name="width" value="985" />
+    <option name="x" value="867" />
+    <option name="y" value="32" />
+    <option name="width" value="987" />
     <option name="height" value="1060" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -72,8 +64,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -120,6 +110,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -196,16 +188,18 @@
       <workItem from="1586480809980" duration="1167000" />
       <workItem from="1586482375402" duration="17000" />
       <workItem from="1586482676126" duration="52000" />
+      <workItem from="1586483633505" duration="175000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9123000" />
+    <option name="totallyTimeSpent" value="9298000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="787" y="30" width="892" height="960" extended-state="0" />
+    <frame x="786" y="29" width="893" height="960" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32177034" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3297491" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -252,8 +246,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SelectionSortTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1242">
-          <caret line="81" column="45" lean-forward="true" selection-start-line="81" selection-start-column="45" selection-end-line="81" selection-end-column="45" />
+        <state relative-caret-position="750">
+          <caret line="81" column="45" selection-start-line="81" selection-start-column="45" selection-end-line="81" selection-end-column="45" />
           <folding>
             <element signature="e#0#2801#0" expanded="true" />
             <element signature="imports" expanded="true" />
