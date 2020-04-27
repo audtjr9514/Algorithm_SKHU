@@ -7,11 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8d03f04-e750-4c50-8d2a-56b84420b67f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/hw5_1_jar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hw3_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3_2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw4_6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw4_6/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw6_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw6_1/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,9 +25,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/SelectSortTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="659">
-              <caret line="47" selection-start-line="47" selection-end-line="47" />
+            <state relative-caret-position="216">
+              <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
               <folding>
+                <element signature="e#0#2543#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
@@ -57,10 +55,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="950" />
-    <option name="y" value="-9" />
-    <option name="width" value="978" />
-    <option name="height" value="1055" />
+    <option name="x" value="949" />
+    <option name="y" value="-10" />
+    <option name="width" value="979" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -68,6 +66,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -103,7 +102,6 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -156,17 +154,18 @@
       <workItem from="1586781156508" duration="348000" />
       <workItem from="1587534967733" duration="1068000" />
       <workItem from="1587559111431" duration="931000" />
+      <workItem from="1587964817293" duration="874000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3241000" />
+    <option name="totallyTimeSpent" value="4115000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="861" y="-8" width="885" height="955" extended-state="0" />
+    <frame x="860" y="-9" width="886" height="956" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27623641" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28313252" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -204,9 +203,10 @@
     <entry file="file://$PROJECT_DIR$/src/SelectionSortTest.java" />
     <entry file="file://$PROJECT_DIR$/src/SelectSortTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="659">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        <state relative-caret-position="216">
+          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
           <folding>
+            <element signature="e#0#2543#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>

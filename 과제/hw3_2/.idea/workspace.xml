@@ -7,10 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efe2a833-97aa-49ba-82f3-6de2d205f007" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hw5_1/.idea/artifacts/hw5_1_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw4_6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw4_6/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw5_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw5_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,9 +55,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="866" />
-    <option name="y" value="30" />
-    <option name="width" value="988" />
+    <option name="x" value="864" />
+    <option name="y" value="28" />
+    <option name="width" value="990" />
     <option name="height" value="1060" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -69,8 +66,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -117,6 +112,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -195,16 +192,19 @@
       <workItem from="1586482676126" duration="52000" />
       <workItem from="1586483633505" duration="175000" />
       <workItem from="1587555862477" duration="1210000" />
+      <workItem from="1587714837359" duration="7000" />
+      <workItem from="1587731526540" duration="144000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10508000" />
+    <option name="totallyTimeSpent" value="10659000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="785" y="28" width="894" height="960" extended-state="0" />
+    <frame x="783" y="26" width="896" height="960" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33770883" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35357141" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
