@@ -7,7 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16c7d39a-8a33-4f65-aadc-d83cc2a26453" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw5_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw5_1/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,12 +38,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MyBinarySearchTreeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="142" column="21" lean-forward="true" selection-start-line="142" selection-start-column="21" selection-end-line="142" selection-end-column="21" />
-              <folding>
-                <element signature="e#3281#3282#0" expanded="true" />
-                <element signature="e#3302#3303#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="98">
+              <caret line="92" column="37" lean-forward="true" selection-start-line="92" selection-start-column="37" selection-end-line="92" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -84,10 +80,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="977" />
-    <option name="height" value="1054" />
+    <option name="x" value="948" />
+    <option name="y" value="-12" />
+    <option name="width" value="980" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -95,8 +91,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -143,6 +137,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -207,6 +203,7 @@
       <workItem from="1588174733441" duration="4528000" />
       <workItem from="1588230030829" duration="609000" />
       <workItem from="1588317328882" duration="5993000" />
+      <workItem from="1588327662901" duration="172000" />
     </task>
     <task id="LOCAL-00001" summary="20.04.27">
       <created>1587968065798</created>
@@ -219,13 +216,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54841000" />
+    <option name="totallyTimeSpent" value="55013000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1753" height="954" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09899823" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18738951" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -267,12 +264,8 @@
     <entry file="file://$PROJECT_DIR$/src/ss.java" />
     <entry file="file://$PROJECT_DIR$/src/MyBinarySearchTreeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="142" column="21" lean-forward="true" selection-start-line="142" selection-start-column="21" selection-end-line="142" selection-end-column="21" />
-          <folding>
-            <element signature="e#3281#3282#0" expanded="true" />
-            <element signature="e#3302#3303#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="98">
+          <caret line="92" column="37" lean-forward="true" selection-start-line="92" selection-start-column="37" selection-end-line="92" selection-end-column="37" />
         </state>
       </provider>
     </entry>
