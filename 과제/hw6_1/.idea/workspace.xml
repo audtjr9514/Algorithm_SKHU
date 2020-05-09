@@ -7,8 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16c7d39a-8a33-4f65-aadc-d83cc2a26453" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../hw5_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw5_1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw7_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw7_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw7_1/out/artifacts/hw7_1_jar/hw7_1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../hw7_1/out/artifacts/hw7_1_jar/hw7_1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw7_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw7_2/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,8 +41,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MyBinarySearchTreeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="21" column="34" lean-forward="true" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+            <state relative-caret-position="288">
+              <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -81,10 +83,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="977" />
-    <option name="height" value="1054" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="979" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -92,6 +94,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -138,8 +142,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -207,6 +209,8 @@
       <workItem from="1588327662901" duration="172000" />
       <workItem from="1588423344633" duration="265000" />
       <workItem from="1588594705985" duration="1247000" />
+      <workItem from="1588745490910" duration="2572000" />
+      <workItem from="1588851372346" duration="1863000" />
     </task>
     <task id="LOCAL-00001" summary="20.04.27">
       <created>1587968065798</created>
@@ -219,13 +223,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56525000" />
+    <option name="totallyTimeSpent" value="60960000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="884" height="954" extended-state="0" />
+    <frame x="-9" y="-9" width="886" height="956" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.08091787" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.08313253" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -267,8 +271,8 @@
     <entry file="file://$PROJECT_DIR$/src/ss.java" />
     <entry file="file://$PROJECT_DIR$/src/MyBinarySearchTreeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="21" column="34" lean-forward="true" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+        <state relative-caret-position="288">
+          <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
         </state>
       </provider>
     </entry>
