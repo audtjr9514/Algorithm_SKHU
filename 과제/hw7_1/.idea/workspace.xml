@@ -6,12 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f3a7f2b-12c7-4d37-9cfc-a0fcde1c384a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/hw7_1_jar/hw7_1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/hw7_1_jar/hw7_1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw7_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw7_2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw7_2/out/artifacts/hw7_2_jar/hw7_2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../hw7_2/out/artifacts/hw7_2_jar/hw7_2.jar" afterDir="false" />
-    </list>
+    <list default="true" id="6f3a7f2b-12c7-4d37-9cfc-a0fcde1c384a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MyHashtableTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="25" column="33" lean-forward="true" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+            <state relative-caret-position="234">
+              <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
               <folding>
                 <element signature="e#0#4953#0" expanded="true" />
               </folding>
@@ -68,10 +63,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="946" />
-    <option name="y" value="-14" />
-    <option name="width" value="982" />
-    <option name="height" value="1059" />
+    <option name="x" value="945" />
+    <option name="y" value="-15" />
+    <option name="width" value="983" />
+    <option name="height" value="1060" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -79,6 +74,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -126,7 +122,6 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -196,11 +191,12 @@
       <workItem from="1589474593518" duration="79000" />
       <workItem from="1589475159109" duration="6000" />
       <workItem from="1589507251446" duration="232000" />
+      <workItem from="1589515394826" duration="1206000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32368000" />
+    <option name="totallyTimeSpent" value="33574000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -213,8 +209,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1753" height="954" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11726576" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.118444316" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -251,8 +248,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/MyHashtableTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="33" lean-forward="true" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+        <state relative-caret-position="234">
+          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
           <folding>
             <element signature="e#0#4953#0" expanded="true" />
           </folding>

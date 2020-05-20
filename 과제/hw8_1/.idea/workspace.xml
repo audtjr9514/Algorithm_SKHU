@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="hw7_2:jar" />
+      <artifact name="hw8_1:jar" />
     </artifacts-to-build>
   </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/matrixPathTest.java" line="82" mnemonic="9" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9f59caa-db82-4594-beb8-7815e6894358" name="Default Changelist" comment="">
+    <list default="true" id="3f3d9609-1bd2-4ef2-8ec8-11e9e5ad3b04" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../hw7_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw7_1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw7_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw7_2/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,12 +26,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MyHashtableOptionTest.java">
+        <entry file="file://$PROJECT_DIR$/src/matrixPathTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="5" selection-end-column="28" />
+            <state relative-caret-position="190">
+              <caret line="63" column="5" lean-forward="true" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
               <folding>
-                <element signature="e#0#7499#0" expanded="true" />
+                <element signature="e#0#2630#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -43,22 +47,37 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>StringBuilder</find>
+      <find>append</find>
+      <find>sb</find>
+      <find>path</find>
+      <find>String path</find>
+      <find>concat</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/MyHashTableTable.java" />
-        <option value="$PROJECT_DIR$/src/MyHashtableTest.java" />
-        <option value="$PROJECT_DIR$/src/MyHashtableTestOpt.java" />
-        <option value="$PROJECT_DIR$/src/MyHashtableOptionTest.java" />
+        <option value="$PROJECT_DIR$/src/matrixPathTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/artifacts/hw8_1_jar.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="width" value="1753" />
+    <option name="x" value="951" />
+    <option name="y" value="-8" />
+    <option name="width" value="977" />
     <option name="height" value="1054" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -68,51 +87,54 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="hw7_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hw7_2" type="462c0819:PsiDirectoryNode" />
+              <item name="hw8_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw8_1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="hw7_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hw7_2" type="462c0819:PsiDirectoryNode" />
+              <item name="hw8_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw8_1" type="462c0819:PsiDirectoryNode" />
               <item name="out" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="hw7_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hw7_2" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hw7_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hw7_2" type="462c0819:PsiDirectoryNode" />
+              <item name="hw8_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw8_1" type="462c0819:PsiDirectoryNode" />
               <item name="out" type="462c0819:PsiDirectoryNode" />
               <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-              <item name="hw7_2_jar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="hw7_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hw7_2" type="462c0819:PsiDirectoryNode" />
+              <item name="hw8_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw8_1" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="hw8_1_jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw8_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw8_1" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw8_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw8_1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="hw7_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hw7_2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="MyHashtableOptionTest.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="hw8_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -124,7 +146,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
-    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
@@ -139,25 +161,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyHashtableOptionTest">
-    <configuration name="MyHashtableOptionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyHashtableOptionTest" />
-      <module name="hw7_2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyHashtableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyHashtableTest" />
-      <module name="hw7_2" />
+  <component name="RunManager">
+    <configuration name="matrixPathTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="matrixPathTest" />
+      <module name="hw8_1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyHashtableOptionTest" />
-        <item itemvalue="Application.MyHashtableTest" />
+        <item itemvalue="Application.matrixPathTest" />
       </list>
     </recent_temporary>
   </component>
@@ -166,41 +180,26 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e9f59caa-db82-4594-beb8-7815e6894358" name="Default Changelist" comment="" />
-      <created>1588566681694</created>
+      <changelist id="3f3d9609-1bd2-4ef2-8ec8-11e9e5ad3b04" name="Default Changelist" comment="" />
+      <created>1589728567853</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1588566681694</updated>
-      <workItem from="1588566685082" duration="850000" />
-      <workItem from="1588578674075" duration="27000" />
-      <workItem from="1588695026367" duration="2310000" />
-      <workItem from="1588729826995" duration="12278000" />
-      <workItem from="1588819107931" duration="7612000" />
-      <workItem from="1588836405286" duration="9547000" />
-      <workItem from="1588868680791" duration="1019000" />
-      <workItem from="1588899823172" duration="33000" />
-      <workItem from="1588905121808" duration="1623000" />
-      <workItem from="1588941148407" duration="1130000" />
-      <workItem from="1588942365453" duration="32000" />
-      <workItem from="1589186029504" duration="136000" />
-      <workItem from="1589186250757" duration="7000" />
-      <workItem from="1589475170515" duration="555000" />
-      <workItem from="1589501551429" duration="1557000" />
-      <workItem from="1589726579876" duration="111000" />
-      <workItem from="1589728547247" duration="24000" />
-      <workItem from="1590168917817" duration="1192000" />
-      <workItem from="1590241454590" duration="650000" />
+      <updated>1589728567853</updated>
+      <workItem from="1589728571489" duration="58000" />
+      <workItem from="1589799225332" duration="3546000" />
+      <workItem from="1589813706819" duration="4166000" />
+      <workItem from="1590241122087" duration="1703000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40693000" />
+    <option name="totallyTimeSpent" value="9473000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1587" height="954" extended-state="0" />
+    <frame x="862" y="-7" width="884" height="954" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23056826" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2379227" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -208,8 +207,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3292978" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.25786924" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3692494" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -219,7 +218,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.17675544" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3292978" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -235,12 +234,13 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/MyHashtableOptionTest.java">
+    <entry file="file://$PROJECT_DIR$/src/matrixPathTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="5" selection-end-column="28" />
+        <state relative-caret-position="190">
+          <caret line="63" column="5" lean-forward="true" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
           <folding>
-            <element signature="e#0#7499#0" expanded="true" />
+            <element signature="e#0#2630#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -251,7 +251,7 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>hw7_2:jar</last-edited>
+          <last-edited>hw8_1:jar</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -298,12 +298,10 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>hw7_2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

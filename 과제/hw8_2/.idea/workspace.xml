@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ArtifactsWorkspaceSettings">
-    <artifacts-to-build>
-      <artifact name="hw7_2:jar" />
-    </artifacts-to-build>
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9f59caa-db82-4594-beb8-7815e6894358" name="Default Changelist" comment="">
+    <list default="true" id="85d14297-9941-44c5-85b1-c63f1f0241c4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../hw7_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw7_1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw7_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw7_2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MaxValuePebbleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaxValuePebbleTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,12 +19,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MyHashtableOptionTest.java">
+        <entry file="file://$PROJECT_DIR$/src/MaxValuePebbleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="5" selection-end-column="28" />
+            <state relative-caret-position="94">
+              <caret line="73" column="36" lean-forward="true" selection-start-line="73" selection-start-column="36" selection-end-line="73" selection-end-column="36" />
               <folding>
-                <element signature="e#0#7499#0" expanded="true" />
+                <element signature="e#0#2889#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -43,20 +40,25 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pebble</find>
+      <find>peb</find>
+      <find>sssssss</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/MyHashTableTable.java" />
-        <option value="$PROJECT_DIR$/src/MyHashtableTest.java" />
-        <option value="$PROJECT_DIR$/src/MyHashtableTestOpt.java" />
-        <option value="$PROJECT_DIR$/src/MyHashtableOptionTest.java" />
+        <option value="$PROJECT_DIR$/src/cc.java" />
+        <option value="$PROJECT_DIR$/src/MaxValuePebbleTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="width" value="1753" />
     <option name="height" value="1054" />
@@ -67,52 +69,27 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="hw7_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hw7_2" type="462c0819:PsiDirectoryNode" />
+              <item name="hw8_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw8_2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="hw7_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hw7_2" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hw7_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hw7_2" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hw7_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hw7_2" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-              <item name="hw7_2_jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hw7_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hw7_2" type="462c0819:PsiDirectoryNode" />
+              <item name="hw8_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw8_2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hw7_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hw7_2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="MyHashtableOptionTest.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -139,25 +116,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyHashtableOptionTest">
-    <configuration name="MyHashtableOptionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyHashtableOptionTest" />
-      <module name="hw7_2" />
+  <component name="RunManager" selected="Application.MaxValuePebbleTest">
+    <configuration name="MaxValuePebbleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaxValuePebbleTest" />
+      <module name="hw8_2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyHashtableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyHashtableTest" />
-      <module name="hw7_2" />
+    <configuration name="MaxValuepebbleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaxValuepebbleTest" />
+      <module name="hw8_2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyHashtableOptionTest" />
-        <item itemvalue="Application.MyHashtableTest" />
+        <item itemvalue="Application.MaxValuePebbleTest" />
+        <item itemvalue="Application.MaxValuepebbleTest" />
       </list>
     </recent_temporary>
   </component>
@@ -166,41 +143,36 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e9f59caa-db82-4594-beb8-7815e6894358" name="Default Changelist" comment="" />
-      <created>1588566681694</created>
+      <changelist id="85d14297-9941-44c5-85b1-c63f1f0241c4" name="Default Changelist" comment="" />
+      <created>1589728627795</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1588566681694</updated>
-      <workItem from="1588566685082" duration="850000" />
-      <workItem from="1588578674075" duration="27000" />
-      <workItem from="1588695026367" duration="2310000" />
-      <workItem from="1588729826995" duration="12278000" />
-      <workItem from="1588819107931" duration="7612000" />
-      <workItem from="1588836405286" duration="9547000" />
-      <workItem from="1588868680791" duration="1019000" />
-      <workItem from="1588899823172" duration="33000" />
-      <workItem from="1588905121808" duration="1623000" />
-      <workItem from="1588941148407" duration="1130000" />
-      <workItem from="1588942365453" duration="32000" />
-      <workItem from="1589186029504" duration="136000" />
-      <workItem from="1589186250757" duration="7000" />
-      <workItem from="1589475170515" duration="555000" />
-      <workItem from="1589501551429" duration="1557000" />
-      <workItem from="1589726579876" duration="111000" />
-      <workItem from="1589728547247" duration="24000" />
-      <workItem from="1590168917817" duration="1192000" />
-      <workItem from="1590241454590" duration="650000" />
+      <updated>1589728627795</updated>
+      <workItem from="1589728630602" duration="12000" />
+      <workItem from="1589785515292" duration="11000" />
+      <workItem from="1589794992092" duration="700000" />
+      <workItem from="1589824637365" duration="1322000" />
+      <workItem from="1589894475415" duration="1871000" />
+      <workItem from="1589902819348" duration="2481000" />
+      <workItem from="1589936678179" duration="3260000" />
+      <workItem from="1589968750458" duration="4655000" />
+      <workItem from="1589977711028" duration="307000" />
+      <workItem from="1589979094946" duration="610000" />
+      <workItem from="1589993072295" duration="602000" />
+      <workItem from="1590173292615" duration="1793000" />
+      <workItem from="1590235555306" duration="5025000" />
+      <workItem from="1590243032657" duration="403000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40693000" />
+    <option name="totallyTimeSpent" value="23052000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1587" height="954" extended-state="0" />
+    <frame x="-7" y="-7" width="1753" height="954" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23056826" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28815556" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -208,8 +180,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3292978" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.25786924" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3292978" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -219,7 +191,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.17675544" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3292978" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -235,12 +207,14 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/MyHashtableOptionTest.java">
+    <entry file="file://$PROJECT_DIR$/src/cc.java" />
+    <entry file="file://$PROJECT_DIR$/src/MaxValuePebbleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="5" selection-end-column="28" />
+        <state relative-caret-position="94">
+          <caret line="73" column="36" lean-forward="true" selection-start-line="73" selection-start-column="36" selection-end-line="73" selection-end-column="36" />
           <folding>
-            <element signature="e#0#7499#0" expanded="true" />
+            <element signature="e#0#2889#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -251,12 +225,10 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>hw7_2:jar</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -264,7 +236,6 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -298,7 +269,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>hw7_2</last-edited>
+          <last-edited>hw8_2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
