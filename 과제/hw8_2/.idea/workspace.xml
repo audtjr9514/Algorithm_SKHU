@@ -7,6 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85d14297-9941-44c5-85b1-c63f1f0241c4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../hw8_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw8_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw8_1/out/artifacts/hw8_1_jar/hw8_1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../hw8_1/out/artifacts/hw8_1_jar/hw8_1.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,8 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MaxValuePebbleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="72" column="21" lean-forward="true" selection-start-line="72" selection-start-column="21" selection-end-line="72" selection-end-column="21" />
+            <state relative-caret-position="342">
+              <caret line="24" column="16" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -68,8 +70,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="width" value="1754" />
+    <option name="x" value="950" />
+    <option name="y" value="-9" />
+    <option name="width" value="978" />
     <option name="height" value="1055" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -79,7 +82,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -95,12 +97,26 @@
             <path>
               <item name="hw8_2" type="b2602c69:ProjectViewProjectNode" />
               <item name="hw8_2" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw8_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw8_2" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="hw8_2_jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw8_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw8_2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -178,17 +194,17 @@
       <workItem from="1590235555306" duration="5025000" />
       <workItem from="1590243032657" duration="1174000" />
       <workItem from="1590245135059" duration="1120000" />
+      <workItem from="1590631573335" duration="795000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24943000" />
+    <option name="totallyTimeSpent" value="25738000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1753" height="954" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2916912" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29522687" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -226,8 +242,8 @@
     <entry file="file://$PROJECT_DIR$/src/cc.java" />
     <entry file="file://$PROJECT_DIR$/src/MaxValuePebbleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="72" column="21" lean-forward="true" selection-start-line="72" selection-start-column="21" selection-end-line="72" selection-end-column="21" />
+        <state relative-caret-position="342">
+          <caret line="24" column="16" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
