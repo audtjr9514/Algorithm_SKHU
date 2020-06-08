@@ -10,6 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f3d9609-1bd2-4ef2-8ec8-11e9e5ad3b04" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../hw4_6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw4_6/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hw8_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw8_2/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -27,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/matrixPathTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="41" lean-forward="true" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+            <state relative-caret-position="282">
+              <caret line="68" column="35" lean-forward="true" selection-start-line="68" selection-start-column="35" selection-end-line="68" selection-end-column="35" />
               <folding>
                 <element signature="e#0#2984#0" expanded="true" />
                 <element signature="imports" expanded="true" />
@@ -74,10 +75,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="950" />
-    <option name="y" value="-9" />
-    <option name="width" value="978" />
-    <option name="height" value="1055" />
+    <option name="x" value="949" />
+    <option name="y" value="-10" />
+    <option name="width" value="979" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -85,7 +86,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -131,6 +131,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -190,17 +191,18 @@
       <workItem from="1589813706819" duration="4166000" />
       <workItem from="1590241122087" duration="1703000" />
       <workItem from="1590631644146" duration="84000" />
+      <workItem from="1591445355712" duration="29000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9557000" />
+    <option name="totallyTimeSpent" value="9586000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="861" y="-8" width="885" height="955" extended-state="0" />
+    <frame x="860" y="-9" width="886" height="956" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24366707" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24939759" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -209,7 +211,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3688029" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36835748" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -237,8 +239,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/matrixPathTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="41" lean-forward="true" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+        <state relative-caret-position="282">
+          <caret line="68" column="35" lean-forward="true" selection-start-line="68" selection-start-column="35" selection-end-line="68" selection-end-column="35" />
           <folding>
             <element signature="e#0#2984#0" expanded="true" />
             <element signature="imports" expanded="true" />
