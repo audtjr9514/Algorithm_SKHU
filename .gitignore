@@ -2,8 +2,7 @@
 # Created by https://www.gitignore.io/api/java,intellij+iml
 # Edit at https://www.gitignore.io/?templates=java,intellij+iml
 
-# pdf
-*.pdf
+
 # jpg
 *.jpg
 
