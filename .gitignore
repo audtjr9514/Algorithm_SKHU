@@ -110,3 +110,9 @@ hs_err_pid*
 
 # End of https://www.gitignore.io/api/java,intellij+iml
 *.mp4
+
+# Etc
+강의 자료/*.*
+알고리즘 정리 파일/*.*
+연습 문제/*
+알고리즘_기말고사_해답.pdf
